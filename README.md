@@ -80,7 +80,7 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install yarn
-git clone https://github.com/Indra-kun455/Elaina2023
+git clone https://github.com/Indra-kun455/Elaina
 cd Elaina2023
 yarn
 npm start
@@ -98,4 +98,4 @@ $ npm run dev
 WhatsApp bot is still in the development stage, so there are a few bugs
 WhatsApp Connection (BETA, not working perfectly)
 
-Editing Number Owner And More On [`settings.js`](https://github.com/Indra-kun455/Elaina2023/blob/master/settings.js)
+Editing Number Owner And More On [`settings.js`](https://github.com/Indra-kun455/Elaina/blob/master/settings.js)
